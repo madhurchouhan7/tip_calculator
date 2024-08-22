@@ -6,7 +6,6 @@ Bill Input: Enter the total bill amount.
 Tip Percentage: Select the desired tip percentage (e.g., 10%, 15%, 20%).
 Tip Calculation: Automatically calculates the tip amount based on the entered bill and selected percentage.
 Total Amount: Displays the total amount, including the tip.
-Screenshots
 
 Installation
 To run this project locally, follow these steps:
@@ -42,4 +41,4 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-If you have any questions or feedback, feel free to contact me at your-email@example.com.
+If you have any questions or feedback, feel free to contact me at madhurchouhan7@email@example.com.
