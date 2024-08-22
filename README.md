@@ -1,16 +1,45 @@
-# tip_calculator
+Tip Calculator App
+A simple and easy-to-use Tip Calculator app built using Flutter. This app allows users to quickly calculate the tip and total amount based on the bill amount and selected tip percentage.
 
-A new Flutter project.
+Features
+Bill Input: Enter the total bill amount.
+Tip Percentage: Select the desired tip percentage (e.g., 10%, 15%, 20%).
+Tip Calculation: Automatically calculates the tip amount based on the entered bill and selected percentage.
+Total Amount: Displays the total amount, including the tip.
+Screenshots
 
-## Getting Started
+Installation
+To run this project locally, follow these steps:
 
-This project is a starting point for a Flutter application.
+Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+bash
+Copy code
+git clone https://github.com/your-username/tip-calculator-app.git
+Navigate to the project directory:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+bash
+Copy code
+cd tip-calculator-app
+Install dependencies:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+bash
+Copy code
+flutter pub get
+Run the app:
+
+bash
+Copy code
+flutter run
+Usage
+Enter the bill amount.
+Select a tip percentage.
+View the calculated tip and total amount.
+Contributing
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contact
+If you have any questions or feedback, feel free to contact me at your-email@example.com.
