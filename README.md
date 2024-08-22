@@ -13,22 +13,18 @@ To run this project locally, follow these steps:
 Clone the repository:
 
 bash
-Copy code
-git clone https://github.com/your-username/tip-calculator-app.git
+git clone https://github.com/madhurchouhan7/tip_calculator
 Navigate to the project directory:
 
 bash
-Copy code
 cd tip-calculator-app
 Install dependencies:
 
 bash
-Copy code
 flutter pub get
 Run the app:
 
 bash
-Copy code
 flutter run
 Usage
 Enter the bill amount.
@@ -41,4 +37,4 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-If you have any questions or feedback, feel free to contact me at madhurchouhan7@email@example.com.
+If you have any questions or feedback, feel free to contact me at madhurchouhan7@gmail.com.
